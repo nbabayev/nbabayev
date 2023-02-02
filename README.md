@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am NIhat Babayev, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am NIhat Babayev, currently working as a Software Engineer at the [Element Software](https://element-software.co.uk/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nihatbabayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihatbabayev/)](https://www.linkedin.com/in/nihatbabayev/)
 [![Gmail Badge](https://img.shields.io/badge/-nihatbabazade0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihatbabazade0@gmail.com)](mailto:nihatbabazade0@gmail.com)
