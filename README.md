@@ -4,7 +4,7 @@ I am NIhat Babayev, currently working as a Software Engineer at the [Enosis Solu
 
 [![Linkedin Badge](https://img.shields.io/badge/-nihatbabayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihatbabayev/)](https://www.linkedin.com/in/nihatbabayev/)
 [![Gmail Badge](https://img.shields.io/badge/-nihatbabazade0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihatbabazade0@gmail.com)](mailto:nihatbabazade0@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Nihat.Babayev-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/babazadenihat)](https://www.facebook.com/babazadenihat)
+[![Facebook Badge](https://img.shields.io/badge/Nihat Babayev-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/babazadenihat)](https://www.facebook.com/babazadenihat)
 
 
 ## ⚡ Technologies
