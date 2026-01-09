@@ -3,7 +3,7 @@
 I am NIhat Babayev, currently working as a Frontend Developer. Improving my server-side skills and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nihatbabayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihatbabayev/)](https://www.linkedin.com/in/nihatbabayev/)
-[![Gmail Badge](https://img.shields.io/badge/-nihatbabazade0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihatbabayev@proton.me)](mailto:nihatbabayev@proton.me)
+[![Gmail Badge](https://img.shields.io/badge/-nihatbabayev@proton.me-c14438?style=flat-square&logo=protonmail&logoColor=white&link=mailto:nihatbabayev@proton.me)](mailto:nihatbabayev@proton.me)
 
 
 
